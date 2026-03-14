@@ -37,18 +37,24 @@ Jira • Software Development Lifecycle (SDLC) • Systems Analysis
 
 ## 🚀 Featured Projects
 
-### Done-ish Productivity App
-Android application built with Jetpack Compose that encourages progress through small, achievable actions.  
-Features include micro-commit timers, momentum tracking, and interactive UI logic to support habit formation.
+### Done-ish
+Android productivity application built with **Kotlin and Jetpack Compose** designed to help users overcome task paralysis through small, achievable actions.  
+Features include micro-commit timers, momentum tracking, and state-driven UI interactions.
 
-### Payroll Generator Web Application
-JavaScript application using object-oriented programming to model employee types and generate payroll calculations and reports.
+### QA Testing Lab
+Repository demonstrating **software testing workflows and QA practices**, including test strategy design, regression testing concepts, defect documentation, and exploration of tools such as **Postman and Selenium**.
 
-### Employee Scheduling Application
-React + Redux application that allows shift management, automated schedule generation, and persistent state storage.
+### SQL Database Project
+Relational database project exploring **data modeling, normalization, and SQL queries** for structured data retrieval and management.
 
-### Testing Practice Projects
-Experiments with API testing workflows using Postman and exploration of automated UI testing concepts using Selenium.
+### Invoice Generator 2025
+JavaScript web application that generates formatted invoices from structured input data and performs dynamic financial calculations.
+
+### Bug Catcher Game
+Interactive **JavaScript browser game** demonstrating event handling, DOM manipulation, and dynamic gameplay logic.
+
+### StreamList
+Web application for discovering and tracking streaming content, integrating external movie data APIs to support search and content exploration.
 
 ---
 
