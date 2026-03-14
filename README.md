@@ -25,7 +25,7 @@ Selenium • Postman
 Git  
 
 **Languages**  
-JavaScript • Python • SQL  
+JavaScript • Python • SQL • Kotlin
 
 **Platforms & Systems**  
 Salesforce • Paychex Flex • Oracle TOAD  
